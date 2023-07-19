@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tetta-pdnt&theme=vue-dark&show_icons=true)](https://github.com/tetta-pdnt/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetta-pdnt&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/tetta-pdnt/github-readme-stats)
+<p align="left"> 
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=tetta-pdnt&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetta-pdnt&layout=donut&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+</p>
 
 <!--
 **tetta-pdnt/tetta-pdnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
