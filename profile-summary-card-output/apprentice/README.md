@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tetta-pdnt/tetta-pdnt/main/profile-summary-card-output/apprentice/4-productive-time.svg)
+```
+
+    
